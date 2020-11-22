@@ -2,4 +2,4 @@
 Oracle DB Project
 
 
-![imege](JobSearchERD.png)
+![imege](jobsearchERD.png)
