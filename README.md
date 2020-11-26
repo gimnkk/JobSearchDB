@@ -5,6 +5,8 @@ Oracle DB Project
 - 개발툴 : Oracle sqldeveloper
 - 주제 : 사람인, 잡코리아, 잡플래닛 등을 참고하여 데이터 모델링 및 DB 설계
 
+&nbsp;&nbsp;&nbsp;
+
 # Summary
 <details markdown = "1">
 <summary>기업 혹은 회원의 상세 조건 조회 (SQL, PL/SQL)</summary>
@@ -35,6 +37,8 @@ Oracle DB Project
 ![image](pptImages/6.PNG)
 
 </details>
+
+&nbsp;&nbsp;&nbsp;
 
 # DB Structure
 ![imege](jobsearchERD.png)
