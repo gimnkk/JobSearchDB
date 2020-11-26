@@ -15,14 +15,14 @@ Oracle DB Project
 </details>
 
 <details markdown = "1">
-<summary>기업 평가 시, 평점 자동 update (트리거)</summary>
+<summary>기업 평가 시, 평점 자동 update (Trigger)</summary>
 
 ![image](pptImages/3.PNG)
 
 </details>
 
 <details markdown = "1">
-<summary>관심있는 기업 혹은 채용공고 북마크 (프로시저)</summary>
+<summary>관심있는 기업 혹은 채용공고 북마크 (Procedure)</summary>
 
 ![image](pptImages/4.PNG)
 ![image](pptImages/5.PNG)
@@ -30,7 +30,7 @@ Oracle DB Project
 </details>
 
 <details markdown = "1">
-<summary>북마크한 기업의 새로운 채용공고 알림 (트리거)</summary>
+<summary>북마크한 기업의 새로운 채용공고 알림 (Trigger)</summary>
 
 ![image](pptImages/6.PNG)
 
