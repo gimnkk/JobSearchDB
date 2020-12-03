@@ -1,7 +1,7 @@
 # JobSearchDB
 Oracle DB Project
 취업사이트 DB 구현
-- 기간 : 2020. 07. 02 ~ 2020. 07. 14
+- 기간 : 2020. 07. 02 ~ 2020. 07. 14.
 - 개발툴 : Oracle sqldeveloper
 - 주제 : 취업사이트, 기업리뷰 사이트 참고하여 데이터 모델링 및 DB 설계
 
